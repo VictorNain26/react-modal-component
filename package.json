@@ -26,5 +26,8 @@
   "dependencies": {
     "postcss": "^8.0",
     "react-transition-group": "^4.4.5"
+  },
+  "publishConfig": {
+    "@VictorNain26:registry": "https://npm.pkg.github.com"
   }
 }
