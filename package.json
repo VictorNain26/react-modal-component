@@ -1,10 +1,13 @@
 {
-  "name": "react-modal-component",
+  "name": "@victornain26/react-modal-component",
   "version": "1.0.0",
   "description": "Modal component that you can use easily in your projects by customize title props and children contents.",
   "main": "./dist/react-modal-component.umd.js",
   "module": "./dist/react-modal-component.es.js",
   "author": "Victor LENAIN",
+  "repository": {
+    "url": "git://github.com/victornain26/react-modal-component.git."
+  },
   "license": "MIT",
   "exports": {
     ".": {
