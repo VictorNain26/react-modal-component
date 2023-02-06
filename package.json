@@ -1,6 +1,6 @@
 {
   "name": "@victornain26/react-modal-component",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Modal component that you can use easily in your projects by customize title props and children contents.",
   "main": "./dist/react-modal-component.umd.js",
   "module": "./dist/react-modal-component.es.js",
@@ -8,7 +8,7 @@
   "repository": {
     "url": "git://github.com/victornain26/react-modal-component.git."
   },
-  "license": "MIT",
+  "license": "ISC",
   "exports": {
     ".": {
       "import": "./dist/react-modal-component.es.js",
@@ -29,5 +29,8 @@
   "dependencies": {
     "postcss": "^8.0",
     "react-transition-group": "^4.4.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
